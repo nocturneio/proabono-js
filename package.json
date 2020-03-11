@@ -1,0 +1,25 @@
+{
+  "name": "proabono-js",
+  "version": "0.0.1",
+  "description": "A ProAbono JS wrapper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocturneio/proabono-js.git"
+  },
+  "keywords": [
+    "ProAbono"
+  ],
+  "author": "NocturneLab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nocturneio/proabono-js/issues"
+  },
+  "homepage": "https://github.com/nocturneio/proabono-js#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
