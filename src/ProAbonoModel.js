@@ -1,11 +1,11 @@
 export default class ProAbonoModel {
 
-    authorization : String;
-    endpoint : String;
+  authorization : String;
+  endpoint : String;
 
-    constructor(authorization : String, endpoint : String){
-        this.authorization = authorization;
-        this.endpoint = endpoint;
-    }
+  constructor(authorization : String, endpoint : String) {
+    this.authorization = authorization;
+    this.endpoint = endpoint;
+  }
 
 }
